@@ -1,0 +1,30 @@
+.flex-container {
+    display: flex
+}
+.first {
+    flex: 1;
+    border-color: gold;
+    border-style: groove;
+    padding: 0%;
+}
+
+.second {
+    flex: 1;
+    border-color: gold;
+    border-style: groove;
+    padding: 0%;
+    
+}
+
+.third {
+    flex: 1;
+    border-color: gold;
+    border-style: groove;
+}
+
+.wide {
+    display: block;    
+    border-color: gold;
+    border-style: groove;
+    margin-top: 5px;
+}
